@@ -98,12 +98,11 @@ A aplicação estará disponível em:
 
 ## 📈 Melhorias Futuras
 
-- Implementar **autenticação** e **autorização** utilizando **JWT**.
 - Implementar **envio de e-mails** para confirmação de pedidos e notificações.
 - Adicionar testes unitários e de integração automatizados.
 - Documentar a API utilizando **Swagger** ou **OpenAPI**.
 - Melhorar a cobertura de logs e métricas para monitoramento de produção.
-
+- Adicionar Pagamentos com api externa
 
 
 
