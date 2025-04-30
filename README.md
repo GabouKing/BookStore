@@ -11,7 +11,7 @@ Permite:
 
 ## 🚀 Tecnologias
 
-- Java 11
+- Java 21
 - Spring Boot
 - Clean Architecture
 - MySQL (banco de dados relacional)
