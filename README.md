@@ -1,6 +1,6 @@
 # 📚 BookStore API
 
-Aplicação **Java 11** utilizando **Spring Boot** com **Clean Architecture**, desenvolvida para ser a base de um **e-commerce de livros**.
+Aplicação **Java 21** utilizando **Spring Boot** com **Clean Architecture**, desenvolvida para ser a base de um **e-commerce de livros**.
 
 Permite:
 - CRUD de livros e editoras
